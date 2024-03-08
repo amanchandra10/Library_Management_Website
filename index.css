@@ -1,0 +1,13 @@
+.left{
+    width: 40%;
+}
+.right{
+    width: 60%;
+}
+.fi-rr-trash{
+    cursor: pointer;
+    color:red;
+}
+.fi-rr-trash:hover{
+    color: whitesmoke;
+}
